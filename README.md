@@ -1,2 +1,2 @@
 # AOSP-DEVELOPER-FAMILY
-Dedicated Android Developerd
+Dedicated Android Developers
